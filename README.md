@@ -1,4 +1,4 @@
 # Love Circular Student Roster
 
 ## October 2022
-- [Example](/example/example-student.md)
+- [Bushra J](/october2022/bushra-j.md)
