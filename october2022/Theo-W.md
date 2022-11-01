@@ -1,0 +1,5 @@
+- Name: Theo W
+- Likes: Anime Fotball Gym Music Food
+- Dislikes: MUSICALS
+- Favourite Quote: If you don't take risks, you can't create a future
+- GitHub Profile URL: https://github.com/Jamaltw12
