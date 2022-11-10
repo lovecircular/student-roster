@@ -10,3 +10,4 @@
 
 ## November 2022
 - [Mujahid U](november2022/mujahid-u.md)
+- [Kassir A] (november2022/Kassir-A.md)
