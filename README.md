@@ -12,3 +12,4 @@
 - [Mujahid U](november2022/mujahid-u.md)
 - [Kassir A](november2022/Kassir-A.md)
 - [Khari F](november2022/Khari-F.md)
+- [Amir](November2022/amirul-i.md)
