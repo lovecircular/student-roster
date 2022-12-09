@@ -16,4 +16,4 @@
 
 ## December 2022
 - [Joshua A](december2022/Joshua-A.md)
-- [Louis A](december2022/Louis-A.md)
+- [Louis A](December2022/Louis-A.md)
