@@ -15,4 +15,4 @@
 - [Amir](November2022/amirul-i.md)
 
 ## December 2022
-- [Joshua A](december2022/Joshua-Ano.md)
+- [Joshua A](december2022/Joshua-A.md)
