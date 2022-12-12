@@ -19,3 +19,4 @@
 - [Louis A](December2022/Louis-A.md)
 - [Aqsa H](December2022/Aqsa-H.md)
 - [Joseph A](December2022/Joseph-A.md)
+- [Cedric A](December2022/Cedric-A.md)
